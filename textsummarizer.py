@@ -109,6 +109,3 @@ def main():
 
 if __name__=='__main__':
 	main()
-
-#To run the app:
-# streamlit run /home/vaishali/projects/python_proj/textsummarizer.py
