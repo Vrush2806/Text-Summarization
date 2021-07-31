@@ -1,4 +1,4 @@
-**Text-Summarization App using NLTK and Spacy using Streamlit**
+**Text-Summarization App using NLTK, Spacy using Streamlit**
 
 **SPACY:**
 Spacy is an open-source software python library used in advanced natural language processing and machine learning. It will be used to build information extraction, natural language understanding systems, and to pre-process text for deep learning. It supports deep learning workflow in convolutional neural networks in parts-of-speech tagging, dependency parsing, and named entity recognition.
